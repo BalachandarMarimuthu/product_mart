@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:colorBackground">@color/white</item>
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+
+    <style name="ButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="TextViewStyle" parent="android:Widget.TextView">
+        <item name="fontFamily">@font/regular</item>
+    </style>
+
+    <!--    Font style     -->
+    <style name="Bold">
+        <item name="fontFamily">@font/bold</item>
+    </style>
+
+    <style name="Plain">
+        <item name="fontFamily">@font/regular</item>
+    </style>
+
+    <style name="Plain.xxSmall">
+        <item name="android:textSize">@dimen/_8sdp</item>
+    </style>
+
+    <style name="Plain.xSmall">
+        <item name="android:textSize">@dimen/_9sdp</item>
+    </style>
+
+    <style name="Plain.Small">
+        <item name="android:textSize">@dimen/_10sdp</item>
+    </style>
+
+    <style name="Plain.Medium">
+        <item name="android:textSize">@dimen/_11sdp</item>
+    </style>
+
+    <style name="Plain.XMedium">
+        <item name="android:textSize">@dimen/_11sdp</item>
+    </style>
+
+    <style name="Plain.Large">
+        <item name="android:textSize">@dimen/_14sdp</item>
+    </style>
+
+    <style name="Plain.xLarge">
+        <item name="android:textSize">@dimen/_16sdp</item>
+    </style>
+
+    <style name="Plain.xxLarge">
+        <item name="android:textSize">@dimen/_18sdp</item>
+    </style>
+
+    <style name="Plain.xxxLarge">
+        <item name="android:textSize">@dimen/_20sdp</item>
+    </style>
+
+    <style name="Bold.xxSmall">
+        <item name="android:textSize">@dimen/_8sdp</item>
+    </style>
+
+    <style name="Bold.xSmall">
+        <item name="android:textSize">@dimen/_9sdp</item>
+    </style>
+
+    <style name="Bold.Small">
+        <item name="android:textSize">@dimen/_10sdp</item>
+    </style>
+
+    <style name="Bold.Medium">
+        <item name="android:textSize">@dimen/_11sdp</item>
+    </style>
+
+    <style name="Bold.xMedium">
+        <item name="android:textSize">@dimen/_12sdp</item>
+    </style>
+
+    <style name="Bold.Large">
+        <item name="android:textSize">@dimen/_14sdp</item>
+    </style>
+
+    <style name="Bold.xLarge">
+        <item name="android:textSize">@dimen/_16sdp</item>
+    </style>
+
+    <style name="Bold.xxLarge">
+        <item name="android:textSize">@dimen/_18sdp</item>
+    </style>
+
+    <style name="Bold.xxxLarge">
+        <item name="android:textSize">@dimen/_20sdp</item>
+    </style>
+
+</resources>
